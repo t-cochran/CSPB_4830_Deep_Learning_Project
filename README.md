@@ -1,4 +1,4 @@
-<a href="https://i.imgur.com/HdF1wZh.png"><img src="https://i.imgur.com/HdF1wZh.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/mZYtLlx.png"><img src="https://i.imgur.com/mZYtLlx.png" title="source: imgur.com" /></a>
 
 <figure>
   <IMG SRC="https://www.colorado.edu/cs/profiles/express/themes/cuspirit/logo.png" WIDTH=40 ALIGN="right">
